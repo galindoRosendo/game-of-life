@@ -1,0 +1,11 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "description": "The game of life with javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rosendo Galindo",
+  "license": "ISC"
+}
